@@ -15,7 +15,15 @@ you can download my CV as [A Pdf from my Google Drive](https://drive.google.com/
 
 ## Tools
 
-## Example of my work
+## Examples of my work
+- ### Automation Test Integration with Testlink Test Case Management 
 
 - ### Bug reports and work in Jira
-  All bug found by Automation Report will create in Jira
+  All bug found will created in Jira
+
+- ### Automation Test Integration with Webhook Teams
+  Custom report send message to webhook teams, can customize the variable that can be send in webhook (example : Total scenario,total pass) the variable take from json report.
+  Here is [example for custom automation test integration with webhook](https://drive.google.com/file/d/17qnGnvkxlZmgXf_tW73aV4cY-h-bVJxo/view?usp=sharing)
+
+  All webhook can customize (ex : slack, discord)
+)
