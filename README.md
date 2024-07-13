@@ -15,7 +15,7 @@ you can download my CV as [A Pdf from my Google Drive](https://drive.google.com/
 
 ## Tools
 ### CICD 
-- Can create and maintain cicd with opensource [Jenkins CICD](https://www.jenkins.io/)
+- Able to create and maintain cicd with opensource [Jenkins CICD](https://www.jenkins.io/) from scratch
 ### Mobile Automation Testing
 The tools i used for native mobile automation test are [Cucumber Java](https://cucumber.io/docs/installation/java/) and [Appium](https://appium.io/)
 For flutter apps im using [Cucumber Java](https://cucumber.io/docs/installation/java/) and [Appium Flutter Driver](https://github.com/appium/appium-flutter-driver)
@@ -26,7 +26,7 @@ The tools i used for web automation test are [Cucumber Java](https://cucumber.io
 ### Appium Device Farm
 [Appium Device Farm](https://github.com/AppiumTestDistribution/appium-device-farm)
 
-## Examples of my work
+## My Several Project
 - ### Automation Test Integration with Testlink Test Case Management
   Here is example [Automation report integration with testlink]()
 
