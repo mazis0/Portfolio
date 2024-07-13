@@ -18,3 +18,4 @@ you can download my CV as [A Pdf from my Google Drive](https://drive.google.com/
 ## Example of my work
 
 - ### Bug reports and work in Jira
+  All bug found by Automation Report will create in Jira
