@@ -16,3 +16,5 @@ you can download my CV as [A Pdf from my Google Drive](https://drive.google.com/
 ## Tools
 
 ## Example of my work
+
+### Bug reports and work in Jira
