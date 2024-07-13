@@ -16,11 +16,17 @@ you can download my CV as [A Pdf from my Google Drive](https://drive.google.com/
 
 ## Skills
 ### Manual Testing
+- can perform manual functional and usability testing for web applications and mobile applications
 ### Automation Testing
+- can perform web test automation , mobile test automation or api test automation
 ### API Testing
+- know how to manipulate requests and create test cases using postman
+- can perform both manual or automation api testing
 ### SQL databases
 ### Java Fundamental
+- OOP Java
 ### Docker
+- able to use docker
 
 
 ## Tools
