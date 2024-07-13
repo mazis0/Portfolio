@@ -49,8 +49,8 @@ Able to install [Appium Device Farm](https://github.com/AppiumTestDistribution/a
 Appium device farm can view video automation mobile (usefull for tracking the failed scenario)
 
 ## Courses
-Sekolah QA.
-Appium Mobile Automation for Android And IOS, Online Courses [Udemy](https://www.udemy.com/course/the-complete-appium-course-for-ios-and-android/).
+- Sekolah QA.
+- Appium Mobile Automation for Android And IOS, Online Courses [Udemy](https://www.udemy.com/course/the-complete-appium-course-for-ios-and-android/).
 ## My Several Project
 ### Automation Test Integration with Testlink Test Case Management
 Here is example [Automation report integration with testlink]().
