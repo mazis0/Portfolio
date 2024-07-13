@@ -15,30 +15,30 @@ you can download my CV as [A Pdf from my Google Drive](https://drive.google.com/
 
 
 ## Skills
-### Manual Testing
-### Automation Testing
-### API Testing
-### SQL databases
-### Java Fundamental
-### Docker
+- ### Manual Testing
+- ### Automation Testing
+- ### API Testing
+- ### SQL databases
+- ### Java Fundamental
+- ### Docker
 
 
 ## Tools
-### CICD 
+- ### CICD 
 - Able to install and maintain open source cicd [Jenkins CICD](https://www.jenkins.io/) from scratch
   
-### Mobile Automation Testing
+- ### Mobile Automation Testing
 - The tools i used for native mobile automation test are [Cucumber Java](https://cucumber.io/docs/installation/java/) and [Appium](https://appium.io/)
 - For flutter apps im using [Cucumber Java](https://cucumber.io/docs/installation/java/) and [Appium Flutter Driver](https://github.com/appium/appium-flutter-driver)
 
-### Web Automation Testing
+- ### Web Automation Testing
 The tools i used for web automation test are [Cucumber Java](https://cucumber.io/docs/installation/java/) and [Selenium](https://www.selenium.dev/)
 
-### Device Farm
+- ### Device Farm
 Able to install [Device Farm](https://devicefarm.org/) from scratch
 Device Farm usefull remote device for another tester
 
-### Appium Device Farm
+- ### Appium Device Farm
 Able to install [Appium Device Farm](https://github.com/AppiumTestDistribution/appium-device-farm) from scratch
 Appium device farm can view video automation mobile (usefull for tracking the failed scenario)
 
