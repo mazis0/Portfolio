@@ -4,7 +4,7 @@
 - [Skills](#skills)
 - [Tools](#tools)
 - [Courses](#courses)
-- [Examples of my work](#examples-of-my-work)
+- [Several My Project](#several-my-project)
 
 ## About Me
 
