@@ -8,6 +8,11 @@
 
 
 ## About Me
+I am a dedicated and detail-oriented QA Engineer with 2 years of professional experience in the field of software testing and quality assurance. My expertise lies in automation testing, where I have successfully implemented and maintained automated test scripts to ensure the robustness and reliability of software applications.
+
+Throughout my career, I have honed my skills in various automation tools and frameworks, consistently delivering high-quality results and improving the overall efficiency of the testing process. My proactive approach to identifying and resolving issues, coupled with my strong analytical and problem-solving abilities, has allowed me to contribute effectively to the success of the projects I have been a part of.
+
+I am passionate about staying up-to-date with the latest industry trends and technologies, continuously seeking opportunities to enhance my skills and knowledge. My commitment to excellence and my collaborative mindset make me a valuable asset to any team, as I strive to ensure that all software products meet the highest standards of quality and performance.
 
 
 ## CV
@@ -56,7 +61,6 @@ you can download my CV as [A Pdf from my Google Drive](https://drive.google.com/
 - Here is example [Automation report integration with testlink]().
 
 ### Automation Report Integration with Webhook Teams
-- Custom report send message to webhook teams, can customize the variable that can be send in webhook (example : Total scenario,total pass) the variable take from json report.
 - Here is [example for custom automation report integration with webhook](https://drive.google.com/file/d/17qnGnvkxlZmgXf_tW73aV4cY-h-bVJxo/view?usp=sharing).
 - Can customize in another webhook (ex : slack, discord)
-)
+
