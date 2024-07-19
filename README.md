@@ -4,7 +4,7 @@
 - [Skills](#skills)
 - [Tools](#tools)
 - [Courses](#courses)
-- [My Several Project](#my-several-project)
+- [Research and Development](#research-and-development)
 
 
 ## About Me
@@ -68,17 +68,15 @@ As someone with foundational knowledge of Docker, I have developed essential ski
 - The tools i used for web automation test are [Cucumber Java](https://cucumber.io/docs/installation/java/) and [Selenium](https://www.selenium.dev/).
 
 ### Device Farm
-- Able to install [Device Farm](https://devicefarm.org/) from scratch.
-- Device Farm usefull remote device for another tester.
+- Able to install and manage [Device Farm](https://devicefarm.org/) from scratch.
 
 ### Appium Device Farm
-- Able to install [Appium Device Farm](https://github.com/AppiumTestDistribution/appium-device-farm) from scratch
-- Appium device farm can view video automation mobile (usefull for tracking the failed scenario)
+- Able to install and manage [Appium Device Farm](https://github.com/AppiumTestDistribution/appium-device-farm) from scratch
 
 ## Courses
 - Sekolah QA.
 - Appium Mobile Automation for Android And IOS, Online Courses [Udemy](https://www.udemy.com/course/the-complete-appium-course-for-ios-and-android/).
-## My Several Project
+## Research and Development
 ### Automation Test Integration with Testlink Test Case Management
 - Here is example [Automation report integration with testlink]().
 
