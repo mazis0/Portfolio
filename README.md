@@ -64,8 +64,10 @@ As someone with foundational knowledge of Docker, I have developed essential ski
 -  Appium Flutter Driver: Proficient in using Appium Flutter Driver to automate testing for Flutter applications. Experienced in setting up the driver, configuring test environments, and running tests to validate the functionality of Flutter-specific UI components and features.
 - Cucumber: Adept at applying Cucumber for BDD in Flutter application testing. Skilled in writing feature files and scenarios to describe application behavior and integrating Cucumber with Appium Flutter Driver to execute automated tests.
 
-### Web Automation Testing
-- The tools i used for web automation test are [Cucumber Java](https://cucumber.io/docs/installation/java/) and [Selenium](https://www.selenium.dev/).
+### Web Automation Testing with Cucumber, Selenium, and Java
+- Java: Proficient in using Java for writing and maintaining automated test scripts for web applications. Experienced in leveraging Java’s object-oriented principles to develop modular, reusable, and maintainable test code.
+- Selenium WebDriver: Skilled in using Selenium WebDriver to automate interactions with web elements. Proficient in writing scripts to perform actions such as clicking buttons, filling forms, and validating web page content across different browsers.
+- Cucumber: Experienced in implementing Behavior-Driven Development (BDD) using Cucumber. Competent in writing clear and concise feature files and scenarios that describe the expected behavior of web applications in a readable format.
 
 ### Device Farm
 - Able to install and manage [Device Farm](https://devicefarm.org/) from scratch.
