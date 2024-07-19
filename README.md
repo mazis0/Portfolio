@@ -23,7 +23,8 @@ you can download my CV as [A Pdf from my Google Drive](https://drive.google.com/
 ### Manual Testing
 - can perform manual functional and usability testing for web applications and mobile applications
 ### Automation Testing
-- can perform web test automation , mobile test automation or api test automation
+As a proficient QA Engineer specializing in automation testing, I have developed a robust skill set that ensures the efficiency, reliability, and scalability of software applications.
+
 ### API Testing
 As a QA Engineer, I possess extensive experience in both manual and automated API testing, ensuring the reliability, performance, and security of web services. My expertise includes:
 
@@ -37,30 +38,16 @@ Utilizing Postman’s collection runner to automate test scenarios and perform r
 Postman: Skilled in leveraging Postman for automated API testing. My capabilities include:
 Developing automated test suites using Postman’s scripting capabilities (JavaScript).
 Setting up environment variables and global variables for dynamic testing.
-Integrating Postman tests into CI/CD pipelines for continuous testing.
-
-- JMeter: Experienced in using JMeter for performance and load testing of APIs. My expertise includes:
-Designing and executing performance test plans to simulate various load scenarios.
-Analyzing test results to identify performance bottlenecks and ensure APIs can handle expected traffic.
-Configuring different types of samplers, listeners, and assertions to validate API performance under load.
-REST Assured: Proficient in using REST Assured for API automation testing in Java. My skills include:
-
-Writing comprehensive test scripts to validate RESTful web services.
-Integrating REST Assured tests with testing frameworks like JUnit or TestNG.
-Utilizing REST Assured’s fluent API to perform various HTTP methods and verify responses.
-Implementing BDD (Behavior-Driven Development) style tests using REST Assured and Cucumber.
-Karate: Skilled in using Karate for API automation testing. My experience includes:
-
-Writing BDD-style tests to describe API interactions using simple, readable syntax.
-Creating reusable features and scenarios for efficient test organization and maintenance.
-Using Karate’s built-in assertions and matchers to validate API responses.
-Integrating Karate tests into CI/CD pipelines for continuous integration and testing.
+Integrating Postman tests into CI/CD pipelines for continuous testing
 
 ### SQL databases
+Advanced skills in writing and executing SQL queries for data validation, including SELECT, INSERT, UPDATE, DELETE, and complex joins. Proficient in writing and optimizing queries to verify data accuracy and integrity
+
 ### Java Fundamental
-- OOP Java
+As a skilled software developer with a solid foundation in Java, I possess a comprehensive understanding of core Java concepts and programming principles.
+
 ### Docker
-- able to use docker
+As someone with foundational knowledge of Docker, I have developed essential skills in containerization to streamline development and deployment processes
 
 
 ## Tools
@@ -68,8 +55,14 @@ Integrating Karate tests into CI/CD pipelines for continuous integration and tes
 - Able to install and manage [Jenkins CICD](https://www.jenkins.io/) from scratch
   
 ### Mobile Automation Testing
-- The tools i used for native mobile automation test are [Cucumber Java](https://cucumber.io/docs/installation/java/) and [Appium](https://appium.io/).
-- For flutter apps im using [Cucumber Java](https://cucumber.io/docs/installation/java/) and [Appium Flutter Driver](https://github.com/appium/appium-flutter-driver).
+- Native Application Testing
+Java: Proficient in using Java to develop and maintain automated test scripts for native mobile applications. Skilled in applying object-oriented programming principles to create structured and reusable test code.
+Appium: Experienced in leveraging Appium to automate tests for native applications on both Android and iOS platforms. Competent in setting up Appium environments, configuring desired capabilities, and executing tests across various devices.
+Cucumber: Skilled in implementing Behavior-Driven Development (BDD) with Cucumber to write clear and maintainable test scenarios. Capable of integrating Cucumber with Appium and Java to create comprehensive test suites that validate application functionality and user interactions.
+- Flutter Application Testing
+Java: Capable of using Java to write and execute automated test scripts for Flutter applications, ensuring reliable and effective test coverage.
+Appium Flutter Driver: Proficient in using Appium Flutter Driver to automate testing for Flutter applications. Experienced in setting up the driver, configuring test environments, and running tests to validate the functionality of Flutter-specific UI components and features.
+Cucumber: Adept at applying Cucumber for BDD in Flutter application testing. Skilled in writing feature files and scenarios to describe application behavior and integrating Cucumber with Appium Flutter Driver to execute automated tests.
 
 ### Web Automation Testing
 - The tools i used for web automation test are [Cucumber Java](https://cucumber.io/docs/installation/java/) and [Selenium](https://www.selenium.dev/).
