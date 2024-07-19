@@ -55,11 +55,11 @@ As someone with foundational knowledge of Docker, I have developed essential ski
 - Able to install and manage [Jenkins CICD](https://www.jenkins.io/) from scratch
   
 ### Mobile Automation Testing
-- Native Application Testing
+- Native Application Testing.
 Java: Proficient in using Java to develop and maintain automated test scripts for native mobile applications. Skilled in applying object-oriented programming principles to create structured and reusable test code.
 Appium: Experienced in leveraging Appium to automate tests for native applications on both Android and iOS platforms. Competent in setting up Appium environments, configuring desired capabilities, and executing tests across various devices.
 Cucumber: Skilled in implementing Behavior-Driven Development (BDD) with Cucumber to write clear and maintainable test scenarios. Capable of integrating Cucumber with Appium and Java to create comprehensive test suites that validate application functionality and user interactions.
-- Flutter Application Testing
+- Flutter Application Testing.
 Java: Capable of using Java to write and execute automated test scripts for Flutter applications, ensuring reliable and effective test coverage.
 Appium Flutter Driver: Proficient in using Appium Flutter Driver to automate testing for Flutter applications. Experienced in setting up the driver, configuring test environments, and running tests to validate the functionality of Flutter-specific UI components and features.
 Cucumber: Adept at applying Cucumber for BDD in Flutter application testing. Skilled in writing feature files and scenarios to describe application behavior and integrating Cucumber with Appium Flutter Driver to execute automated tests.
