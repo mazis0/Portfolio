@@ -25,8 +25,37 @@ you can download my CV as [A Pdf from my Google Drive](https://drive.google.com/
 ### Automation Testing
 - can perform web test automation , mobile test automation or api test automation
 ### API Testing
-- know how to manipulate requests and create test cases using postman
-- can perform both manual or automation api testing
+As a QA Engineer, I possess extensive experience in both manual and automated API testing, ensuring the reliability, performance, and security of web services. My expertise includes:
+
+- Manual Testing
+Postman: Proficient in using Postman for manual API testing. I have experience in:
+Creating and executing HTTP requests to validate API endpoints.
+Verifying response status codes, headers, and body content to ensure API functionality aligns with specifications.
+Using Postman’s built-in tools to write and run scripts for request automation and validation.
+Utilizing Postman’s collection runner to automate test scenarios and perform regression testing.
+- Automation Testing
+Postman: Skilled in leveraging Postman for automated API testing. My capabilities include:
+Developing automated test suites using Postman’s scripting capabilities (JavaScript).
+Setting up environment variables and global variables for dynamic testing.
+Integrating Postman tests into CI/CD pipelines for continuous testing.
+
+- JMeter: Experienced in using JMeter for performance and load testing of APIs. My expertise includes:
+Designing and executing performance test plans to simulate various load scenarios.
+Analyzing test results to identify performance bottlenecks and ensure APIs can handle expected traffic.
+Configuring different types of samplers, listeners, and assertions to validate API performance under load.
+REST Assured: Proficient in using REST Assured for API automation testing in Java. My skills include:
+
+Writing comprehensive test scripts to validate RESTful web services.
+Integrating REST Assured tests with testing frameworks like JUnit or TestNG.
+Utilizing REST Assured’s fluent API to perform various HTTP methods and verify responses.
+Implementing BDD (Behavior-Driven Development) style tests using REST Assured and Cucumber.
+Karate: Skilled in using Karate for API automation testing. My experience includes:
+
+Writing BDD-style tests to describe API interactions using simple, readable syntax.
+Creating reusable features and scenarios for efficient test organization and maintenance.
+Using Karate’s built-in assertions and matchers to validate API responses.
+Integrating Karate tests into CI/CD pipelines for continuous integration and testing.
+
 ### SQL databases
 ### Java Fundamental
 - OOP Java
